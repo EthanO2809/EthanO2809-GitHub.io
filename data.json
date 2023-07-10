@@ -1,0 +1,52 @@
+{
+"product" : [
+    {
+        "id" : 1,
+        "image" : "https://i.postimg.cc/TY56YSjk/Screenshot-2023-07-03-094751.png",
+        "name" : "E-commerce Site",
+        "description" : "I created an e-commerce website as a way to grasp the functioning and proper usage of JavaScript functions. To build it, I made use of Bootstrap, HTML, CSS, and JavaScript.",
+        "github" : "https://github.com/EthanO2809/e_commerce.git",
+        "netlify" : "https://dainty-muffin-80994d.netlify.app"
+    },
+    {
+        "id" : 2,
+        "image" : "https://i.postimg.cc/yNcGMCHR/Screenshot-2023-07-03-095343.png",
+        "name" : "E-commerce with Javascript",
+        "description" : "As part of my JavaScript exercises, I developed an e-commerce website using CSS, HTML, Bootstrap, and JavaScript.",
+        "github" : "https://github.com/EthanO2809/e-comFINAL.git",
+        "netlify" : "https://illustrious-zabaione-81c6a6.netlify.app"
+    },
+    {
+        "id" : 3,
+        "image" : "https://i.postimg.cc/WpxSGfrq/Screenshot-2023-07-03-093600.png",
+        "name" : "BMI Calculator",
+        "description" : "As part of my JavaScript exercises, I developed a BMI (Body Mass Index) calculator using CSS, HTML, Bootstrap, and JavaScript. This calculator enables users to input their weight and height to calculate their BMI, providing valuable insights into their body composition.",
+        "github" : "https://github.com/EthanO2809/BMI_Calculator.git",
+        "netlify" : "https://fantastic-valkyrie-46f7f0.netlify.app/"
+    },
+    {
+        "id" : 4,
+        "image" : "https://i.postimg.cc/Y2Xk8nWt/Screenshot-2023-07-03-105431.png",
+        "name" : "Bootstrap Portfolio",
+        "description" : "As part of my Bootstrap EOMP, I created a Portfolio application using CSS, HTML and Bootstrap.",
+        "github" : "https://github.com/EthanO2809/Project-Week1.git",
+        "netlify" : "https://eloquent-gelato-5ca4e1.netlify.app"
+    },
+    {
+        "id" : 5,
+        "image" : "https://i.postimg.cc/YS4T2mBJ/Screenshot-2023-07-03-094404.png",
+        "name" : "Currency Converter",
+        "description" : "As part of my JavaScript exercises, I built a currency converter application using CSS, HTML, Bootstrap, and JavaScript.",
+        "github" : "https://github.com/EthanO2809/Currency_Exchange.git",
+        "netlify" : "https://super-toffee-995b22.netlify.app/"
+    },
+    {
+        "id" : 6,
+        "image" : "https://i.postimg.cc/wvXJD0dL/Screenshot-2023-07-03-094059.png",
+        "name" : "Temperature Converter",
+        "description" : "I created a temperature converter as a way to grasp the functioning and proper usage of JavaScript functions. The converter specifically converts temperatures from Fahrenheit to degrees Celsius. To build it, I employed Bootstrap, HTML, CSS, and JavaScript.",
+        "github" : "https://github.com/EthanO2809/Temp_Converter.git",
+        "netlify" : "https://frolicking-mooncake-85df14.netlify.app/"
+    }
+  ]
+}
